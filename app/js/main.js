@@ -1,2 +1,5 @@
-var a = 45;
-console.log("value of a is " ,a);
+"use strict";
+// import d3 from d3;
+
+var x="Hello World";
+console.log("Value of x : ", x);
