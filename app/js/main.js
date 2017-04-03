@@ -1,3 +1,4 @@
+var globalVar={};
 var xhttp = new XMLHttpRequest();
 var currentDarg = "";
 var correctAnswer = [28, 207, 7, 5];
